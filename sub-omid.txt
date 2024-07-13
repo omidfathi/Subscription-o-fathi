@@ -1,0 +1,5 @@
+vless://a364b02a-6147-4d1c-a9d2-75822e781119@home6first.it-is-what-it-is.fun:44231?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#Rightel-Omid
+vless://b8d526d7-5e3c-4b6b-b656-b47764506225@home6second.it-is-what-it-is.fun:44097?type=tcp&security=none#Irancell-Omid2
+vless://5a0d488d-814a-438d-86d6-e0834762dd37@livewithon.it-is-what-it-is.fun:2052?type=splithttp&path=%2Fv3rbuify.yinte.ir.shop.com%3Fed%3D2560&host=panel.lastsecond.ir&security=tls&fp=randomized&alpn=h2&sni=livewithon.it-is-what-it-is.fun#MCI%2FADSL-Omid3
+vless://e09d2b0f-b84b-4515-97fe-71188feb8328@iranserver.com:2087?type=grpc&serviceName=&authority=%2Fv3rbuify.yinte.ir.shop.com%3Fed%3D32&security=tls&fp=&alpn=h2&sni=Zone.IT-IS-whAT-iT-Is.Fun.#Other-Omid4
+vless://21a5c207-ad40-49fd-b826-27f69318441d@and-restructuring-sr-va.trycloudflare.com:8880?type=ws&path=%2Fv3rbuify.yinte.ir.shop.com%3Fed%3D2560&host=and-restructuring-sr-va.trycloudflare.com&security=none#Argo-Omid5
