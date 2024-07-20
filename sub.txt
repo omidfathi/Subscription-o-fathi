@@ -5,3 +5,4 @@ vless://db549922-8226-4205-840f-b49bdbe220d0@home6second.it-is-what-it-is.fun:44
 vless://a8365a68-121d-4610-98d5-b83ae634c7f2@livewithon.it-is-what-it-is.fun:2052?type=splithttp&path=%2Fv3rbuify.yinte.ir.shop.com%3Fed%3D2560&host=panel.lastsecond.ir&security=none#MCI%2FADSL-Guys3
 vless://bc034390-33b2-4652-a2b4-1c0ed02ea5e3@iranserver.com:2087?type=grpc&serviceName=&authority=%2Fv3rbuify.yinte.ir.shop.com%3Fed%3D32&security=tls&fp=&alpn=h2&sni=Zone.IT-IS-whAT-iT-Is.Fun.#Other-Guys4
 vless://ff9b0aec-aa0d-45e4-8ac2-f0ee8542e1ba@and-restructuring-sr-va.trycloudflare.com:8880?type=ws&path=%2Fv3rbuify.yinte.ir.shop.com%3Fed%3D2560&host=and-restructuring-sr-va.trycloudflare.com&security=none#Argo-Guys5
+vless://48e616f6-aadb-4a4b-b283-fd77aa34b10b@home6second.it-is-what-it-is.fun:11713?type=httpupgrade&path=%2F&host=iranserver.com&security=none#Irancell%2F2-Guys6
