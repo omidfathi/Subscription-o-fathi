@@ -7,3 +7,4 @@ vless://5861b3ad-779a-44cd-8717-767815a1aba9@[2a03:b0c0:2:d0::d8c:1]:19476?type=
 vless://6d2a2321-0705-43fd-be37-7a4fe16c5de0@hello6world.xn--d1aqf.org:10223?type=ws&path=%2FcaIKBAJhbKBHASCjABKSHbc&host=&security=none#Irancell%2FWS%2FIPV6-Paria3
 vless://164b0636-b7af-49ed-af9d-6b766ca4b8ae@prob1lem2sol3ved.xn--d1aqf.org:15749?type=ws&path=%2FcasjnKJSDLASKbxlchaBLACHBclkABCSHb&host=hello6world.xn--d1aqf.org&security=none#Irancell%2FWS-Paria4
 vless://fe461d37-a196-4548-8b26-58c4442f5a62@prob1lem2sol3ved.xn--d1aqf.org:10081?type=tcp&security=none#Psiphon%2FIPv4-Paria5
+vless://5015ab2c-b8b1-4328-8173-605a15b43e1e@[2a03:b0c0:2:d0::d8c:1]:10082?type=tcp&security=none#Psiphon%2FIPv6-Paria6
