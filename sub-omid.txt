@@ -8,4 +8,4 @@ vless://f37752fc-4f48-4965-bd27-127dcef5281a@[2a03:b0c0:2:d0::d8c:1]:10223?type=
 vless://2af07352-6074-4828-894d-12494f440bc3@prob1lem2sol3ved.xn--d1aqf.org:15749?type=ws&path=%2FcasjnKJSDLASKbxlchaBLACHBclkABCSHb&host=hello6world.xn--d1aqf.org&security=none#Irancell%2FWS-O.Fathi4
 vless://b705e2eb-d979-482e-bd97-da97de813d90@prob1lem2sol3ved.xn--d1aqf.org:10081?type=tcp&security=none#Psiphon%2FIPv4-O.Fathi5
 vless://27ee07f3-dd1a-4417-a04c-d8e41a30c4d5@[2a03:b0c0:2:d0::d8c:1]:10082?type=tcp&security=none#Psiphon%2FIPv6-O.Fathi6
-vless://a3340d05-a112-412b-9129-3f61c140c744@prob1lem2sol3ved.prob1lem2sol3ved.xn--d1aqf.org:15172?type=splithttp&path=%2F%3Fen%3D2560&host=zula.ir&security=none#Irancel%2FSplitHttp-O.Fathi7
+vless://a3340d05-a112-412b-9129-3f61c140c744@prob1lem2sol3ved.xn--d1aqf.org:15172?type=splithttp&path=%2F%3Fen%3D2560&host=zula.ir&security=none#Irancel%2FSplitHttp-O.Fathi7
