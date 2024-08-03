@@ -7,4 +7,5 @@ vless://0a1d81a5-51a1-40b1-ba3d-1589f86ca693@[2a03:b0c0:2:d0::d8c:1]:19476?type=
 vless://cf73a323-d460-45cc-8837-2d91b22331e4@hello6world.xn--d1aqf.org:10223?type=ws&path=%2FcaIKBAJhbKBHASCjABKSHbc&host=&security=none#Irancell%2FWS%2FIPV6-Guys3
 vless://803fc7a1-69cf-43a9-a0f0-7dc18a7b6e93@prob1lem2sol3ved.xn--d1aqf.org:15749?type=ws&path=%2FcasjnKJSDLASKbxlchaBLACHBclkABCSHb&host=hello6world.xn--d1aqf.org&security=none#Irancell%2FWS-Guys4
 vless://bf18bba1-2d16-4f18-aac4-532159995fd9@prob1lem2sol3ved.xn--d1aqf.org:10081?type=tcp&security=none#Psiphon%2FIPv4-Guys5
-vless://5015ab2c-b8b1-4328-8173-605a15b43e1e@[2a03:b0c0:2:d0::d8c:1]:10082?type=tcp&security=none#Psiphon%2FIPv6-Paria6
+vless://09c54f10-e8d9-425d-ae39-07a187e947bb@[2a03:b0c0:2:d0::d8c:1]:10082?type=tcp&security=none#Psiphon%2FIPv6-Guys6
+vless://555b9f9a-1b81-45d7-8ecc-363265faa37e@prob1lem2sol3ved.xn--d1aqf.org:15172?type=splithttp&path=%2F%3Fen%3D2560&host=zula.ir&security=none#Irancel%2FSplitHttp-Guys7
