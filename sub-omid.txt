@@ -1,7 +1,9 @@
-vless://f1da2b37-bc6f-4a84-947f-ac4b536956c3@new1--force2--elegant3--now.xn--simplon-sumer-jfb.ch:2052?type=tcp&path=%2F&host=panel.lastsecond.ir&headerType=http&security=none#MCI%2FTCP-OFathi
-vless://f172044b-28b7-420f-8e96-0f2b07b1c30f@new1--force2--elegant3--now.xn--simplon-sumer-jfb.ch:22146?type=tcp&path=%2F&host=%5B2606%3A4700%3A3035%3A%3A6815%3A37f9%5D&headerType=http&security=none#MCI%2FTCP%2F2-O.Fathi2
-vless://2272ad2e-71ec-4536-ad7d-4ea1de675348@new1--force2--elegant3--now.xn--simplon-sumer-jfb.ch:13850?type=httpupgrade&path=%2F&host=chapters.w3.org&security=none#MCI%2FhttpUpgrade-O.Fathi3
-vless://7e3d08b5-8c76-471c-a136-5b5e91e3f00d@new1--force2--elegant3--now.xn--simplon-sumer-jfb.ch:15872?type=splithttp&path=%2F%3Fen%3D2560&host=zula.ir&security=none#MCI%2FsplitHttp-O.Fathi4
+vless://f1da2b37-bc6f-4a84-947f-ac4b536956c3@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:2052?type=tcp&security=none#MCI%2FTCP-OFathi
+vless://f172044b-28b7-420f-8e96-0f2b07b1c30f@xn--72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:22146?type=tcp&security=none#MCI%2FTCP%2FIPv6-O.Fathi2
+vless://2272ad2e-71ec-4536-ad7d-4ea1de675348@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:13850?type=httpupgrade&path=%2F&host=chapters.w3.org&security=none#MCI%2FhttpUpgrade-O.Fathi3
+vless://7e3d08b5-8c76-471c-a136-5b5e91e3f00d@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:15872?type=splithttp&path=%2F%3Fen%3D2560&host=zula.ir&security=none#MCI%2FsplitHttp-O.Fathi4
+vless://797cf807-3a11-4d70-ab5e-5de7aff414ae@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:43186?type=httpupgrade&path=%2F%3Fen%3D2560&host=panel.lastsecond.ir&security=none#MCI%2FhttpUpgrade%2F2-O.Fathi5
+vless://90f1aeb2-c733-4e79-90bf-f13f3fad8e9f@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:32330?type=ws&path=%2Fxn--72cg7bdd3bro6b3ab9c8btw4x&host=telewebion.com&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com#MCI%2FWS%2FTLS-O.Fathi6
 vless://b1a0edae-b299-4525-849d-4ce18eecf11d@prob1lem2sol3ved.xn--d1aqf.org:21074?type=tcp&path=%2F&host=%5B2606%3A4700%3A3035%3A%3A6815%3A37f9%5D&headerType=http&security=none#Irancell%2FTCP-O.Fathi1
 vless://aede3eea-9270-4bd3-8675-3dab77dccf04@[2a03:b0c0:2:d0::d8c:1]:19476?type=tcp&path=%2F&host=%5B2606%3A4700%3A3033%3A%3A6815%3A45e7%5D&headerType=http&security=none#Irancell%2FTCP%2FIPV6-O.Fathi2
 vless://f37752fc-4f48-4965-bd27-127dcef5281a@[2A03:B0C0:0002:00D0:0000:0000:0D8C:0001]:10223?type=ws&path=%2FcaIKBAJhbKBHASCjABKSHbc&host=&security=none#Irancell%2FWS%2FIPV6-O.Fathi3
