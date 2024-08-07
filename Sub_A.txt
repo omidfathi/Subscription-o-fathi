@@ -1,0 +1,5 @@
+vless://158fd50b-399a-498b-965b-7d1c2552d6c5@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:2052?type=tcp&security=none#MCI%2FTCP-Arezou1
+vless://28fff800-59fc-4e54-b5de-809e810118fb@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:13850?type=httpupgrade&path=%2F&host=chapters.w3.org&security=none#MCI%2FhttpUpgrade-Arezou2
+vless://c8ee998b-13f3-4732-abc4-1c3e7acd7619@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:15872?type=splithttp&path=%2F%3Fen%3D2560&host=zula.ir&security=none#MCI%2FsplitHttp-Arezou3
+vless://17cb79c9-283c-4455-85d9-25c2d13b683e@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:43186?type=httpupgrade&path=%2F%3Fen%3D2560&host=panel.lastsecond.ir&security=none#MCI%2FhttpUpgrade%2F2-Arezou4
+vless://029c6c5a-7881-47f2-a096-df503baa22f0@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:32330?type=ws&path=%2Fxn--72cg7bdd3bro6b3ab9c8btw4x&host=telewebion.com&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com#MCI%2FWS%2FTLS-Arezou5
