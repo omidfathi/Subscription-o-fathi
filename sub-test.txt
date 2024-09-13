@@ -1,0 +1,4 @@
+vless://7011726c-8c2d-4ca9-9da8-cc6ae71eb126@xn--72cg7bdd3broo.xn--72cg7bdd3bro6b3ab9c8btw4x.com:26447?type=tcp&path=%2F&host=%5B2a01%3A4f8%3Ac2c%3A6bff%3A%3A1%5D&headerType=http&security=none#TCP-omid1
+vless://d00ed4ab-8f25-446c-b5ec-bb88c69dd2fa@[2a01:4f8:c2c:6bff::1]:10592?type=tcp&path=%2F&host=%5B2a01%3A4f8%3Ac2c%3A6bff%3A%3A1%5D&headerType=http&security=none#TCP%2FIPV6-omid2
+vless://9cb6dbd9-8562-4cc3-a3e1-778415f9c1c6@xn--72cg7bdd3broo.xn--72cg7bdd3bro6b3ab9c8btw4x.com:44183?type=ws&path=%2FcasjnKJSDLASKbxlchaBLACHBclkABCSHb&host=%5B2a01%3A4f8%3Ac2c%3A6bff%3A%3A1%5D&security=none#WS-omid3
+vless://1aedb648-c198-446a-a964-0ef48d43ce36@[2a01:4f8:c2c:6bff::1]:30154?type=ws&path=%2FcaIKBAJhbKBHASCjABKSHbc&host=&security=none#WS%2FIPV6-omid4
