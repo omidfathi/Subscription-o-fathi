@@ -1,6 +1,1 @@
-vless://c2671bac-35c2-4076-8c4f-e1e79015e0e4@82cg7bdd3broo.xn--72cg7bdd3bro6b3ab9c8btw4x.com:34693?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#TCP-o.fathi1
-vless://4e4e3605-b6bd-400b-ad10-a51b7a11406b@[2001:41d0:404:100::247d]:25400?type=tcp&security=none#TCP%2FIPV6-o.fathi2
-vless://ca63cd3c-ef39-4c57-9dd1-291fe3c893ad@82cg7bdd3broo.xn--72cg7bdd3bro6b3ab9c8btw4x.com:59173?type=httpupgrade&path=%2Fakshcbkhabsrfk%3Fen%3D2560&host=zula.ir&security=none#HTTPUpgrade-o.fathi3
-vless://0cd8095f-94af-4420-b0fd-814becb3842e@82cg7bdd3broo.xn--72cg7bdd3bro6b3ab9c8btw4x.com:41247?type=splithttp&path=%2Fasdkhbahkewbkwhjekjyi2738712g8ebc813265b432x7%3Fen%3D2560&host=zula.ir&security=none#SplitHttp-o.fathi4
-vless://f39dd011-e99e-4ab3-804a-6c136f2ed3ba@82cg7bdd3broo.xn--72cg7bdd3bro6b3ab9c8btw4x.com:55555?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#TCP%2FWarp-o.fathi5
-vless://d1f91e76-9571-45cb-8489-f67d38ed780f@82cg7bdd3broo.xn--72cg7bdd3bro6b3ab9c8btw4x.com:44444?type=tcp&security=none#Psiphon-o.fathi6
+vless://4df645fb-da93-4037-8c21-04d79a6f98bd@82cg7bdd3broo.xn--72cg7bdd3bro6b3ab9c8btw4x.com:16025?type=tcp&security=none#TCP-o.fathi1
