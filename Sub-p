@@ -1,6 +1,6 @@
-vless://f0d4c63d-680b-4ead-ad53-d0b79b24de83@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:2052?type=tcp&security=none#MCI%2FTCP-Paria-1
-vless://2d6e5b29-0736-4420-96bb-4b6229de7eea@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:13850?type=httpupgrade&path=%2Fasdfarvzsdf%3Fen%3D2560&host=zula.ir&security=none#MCI%2FhttpUpgrade-Paria3
-vless://ae73390d-faff-459d-8140-2016cbf50573@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:15872?type=splithttp&path=%2Fasdgsdfsd%3Fen%3D2560&host=zula.ir&security=none#MCI%2FsplitHttp-Paria4
+vless://f0d4c63d-680b-4ead-ad53-d0b79b24de83@xn--d1bro.xn--soora-pta.com.ar:2052?type=tcp&security=none#MCI%2FTCP-Paria-1
+vless://2d6e5b29-0736-4420-96bb-4b6229de7eea@xn--d1bro.xn--soora-pta.com.ar:13850?type=httpupgrade&path=%2Fasdfarvzsdf%3Fen%3D2560&host=zula.ir&security=none#MCI%2FhttpUpgrade-Paria3
+vless://ae73390d-faff-459d-8140-2016cbf50573@xn--d1bro.xn--soora-pta.com.ar:15872?type=splithttp&path=%2Fasdgsdfsd%3Fen%3D2560&host=zula.ir&security=none#MCI%2FsplitHttp-Paria4
 vless://971dc53b-15ad-47fa-a737-2abc9e49df97@prob1lem2sol3ved.xn--d1aqf.org:21074?type=tcp&path=%2F&host=%5B2606%3A4700%3A3035%3A%3A6815%3A37f9%5D&headerType=http&security=none#Irancell%2FTCP-Paria1
 vless://5861b3ad-779a-44cd-8717-767815a1aba9@[2a03:b0c0:2:d0::d8c:1]:19476?type=tcp&path=%2F&host=%5B2606%3A4700%3A3033%3A%3A6815%3A45e7%5D&headerType=http&security=none#Irancell%2FTCP%2FIPV6-Paria2
 vless://fe461d37-a196-4548-8b26-58c4442f5a62@prob1lem2sol3ved.xn--d1aqf.org:10081?type=tcp&security=none#Psiphon%2FIPv4-Paria5
