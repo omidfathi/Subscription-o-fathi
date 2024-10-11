@@ -1,3 +1,3 @@
-vless://158fd50b-399a-498b-965b-7d1c2552d6c5@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:2052?type=tcp&security=none#MCI%2FTCP-Arezou1
-vless://28fff800-59fc-4e54-b5de-809e810118fb@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:13850?type=httpupgrade&path=%2Fasdfarvzsdf%3Fen%3D2560&host=zula.ir&security=none#MCI%2FhttpUpgrade-Arezou2
-vless://c8ee998b-13f3-4732-abc4-1c3e7acd7619@72cg7bdd3bro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:15872?type=splithttp&path=%2Fasdgsdfsd%3Fen%3D2560&host=zula.ir&security=none#MCI%2FsplitHttp-Arezou3
+vless://158fd50b-399a-498b-965b-7d1c2552d6c5@xn--d1bro.xn--soora-pta.com.ar:2052?type=tcp&security=none#MCI%2FTCP-Arezou1
+vless://28fff800-59fc-4e54-b5de-809e810118fb@xn--d1bro.xn--soora-pta.com.ar:13850?type=httpupgrade&path=%2Fasdfarvzsdf%3Fen%3D2560&host=zula.ir&security=none#MCI%2FhttpUpgrade-Arezou2
+vless://c8ee998b-13f3-4732-abc4-1c3e7acd7619@xn--d1bro.xn--soora-pta.com.ar:15872?type=splithttp&path=%2Fasdgsdfsd%3Fen%3D2560&host=zula.ir&security=none#MCI%2FsplitHttp-Arezou3
