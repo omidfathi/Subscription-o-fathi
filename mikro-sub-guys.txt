@@ -1,6 +1,6 @@
-vless://414ad75d-89b9-4173-a1a2-735e0b35943e@mikro.xn--d1aqf.org:43738?type=tcp&security=none#%231%2FTCP-Guys1
-vless://47d8186f-da2a-4c8a-ba03-f8d389fe329c@mikro.xn--d1aqf.org:41197?type=tcp&path=%2F&host=digigerman.com&headerType=http&security=none#%232%2FTCP-Guys2
-vless://13fb8383-e32e-4975-8e66-59e3ead89687@mikro.xn--d1aqf.org:36060?type=httpupgrade&path=%2F&host=digigerman.com&security=none#%233%2FHttpUpgrade-Guys3
-vless://d522716c-d671-44ba-8ad7-c7b68a4ab1fc@mikro.xn--d1aqf.org:41471?type=splithttp&path=%2FHelLoWorLD234&host=&security=none#%234%2FsplitHttp-Guys4
-vless://0467beb0-aa1b-4f36-b2b7-de6b44e0f475@mikro.xn--d1aqf.org:39135?type=grpc&serviceName=&authority=&mode=multi&security=none#%235%2Fgrpc-Guys5
-vless://2312bc3d-92ee-41cc-9e6e-9496a3ad18dc@mikro.xn--d1aqf.org:14141?type=tcp&security=none#%236%2FWARP-Guys6
+vless://414ad75d-89b9-4173-a1a2-735e0b35943e@info1mikro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:43738?type=tcp&security=none#%231%2FTCP-Guys1
+vless://47d8186f-da2a-4c8a-ba03-f8d389fe329c@info1mikro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:41197?type=tcp&path=%2F&host=digigerman.com&headerType=http&security=none#%232%2FTCP-Guys2
+vless://13fb8383-e32e-4975-8e66-59e3ead89687@info1mikro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:36060?type=httpupgrade&path=%2F&host=digigerman.com&security=none#%233%2FHttpUpgrade-Guys3
+vless://d522716c-d671-44ba-8ad7-c7b68a4ab1fc@info1mikro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:41471?type=splithttp&path=%2FHelLoWorLD234&host=&security=none#%234%2FsplitHttp-Guys4
+vless://0467beb0-aa1b-4f36-b2b7-de6b44e0f475@info1mikro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:39135?type=grpc&serviceName=&authority=&mode=multi&security=none#%235%2Fgrpc-Guys5
+vless://2312bc3d-92ee-41cc-9e6e-9496a3ad18dc@info1mikro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:14141?type=tcp&security=none#%236%2FWARP-Guys6
