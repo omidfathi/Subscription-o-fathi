@@ -4,3 +4,5 @@ vless://13fb8383-e32e-4975-8e66-59e3ead89687@info1mikro.xn--72cg7bdd3bro6b3ab9c8
 vless://d522716c-d671-44ba-8ad7-c7b68a4ab1fc@info1mikro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:41471?type=splithttp&path=%2FHelLoWorLD234&host=&security=none#%234%2FsplitHttp-Guys4
 vless://0467beb0-aa1b-4f36-b2b7-de6b44e0f475@info1mikro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:39135?type=grpc&serviceName=&authority=&mode=multi&security=none#%235%2Fgrpc-Guys5
 vless://2312bc3d-92ee-41cc-9e6e-9496a3ad18dc@info1mikro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:14141?type=tcp&security=none#%236%2FWARP-Guys6
+vless://14a0dd24-9e10-40f0-bace-763ef17f310a@info1mikro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:46178?type=grpc&serviceName=&authority=&security=none#%23Tor-Guys7
+vless://7784369d-3a20-4329-b108-c683bad9a846@info1mikro.xn--72cg7bdd3bro6b3ab9c8btw4x.com:2087?type=tcp&path=%2F&host=digigerman.com&headerType=http&security=reality&pbk=sdDvK-tea6Gt8YjUocQyCEiiq3tplT4jEiytnxG5XXw&fp=chrome&sni=www.linux.org&sid=c8&spx=%2F#%23Reality-Guys8
