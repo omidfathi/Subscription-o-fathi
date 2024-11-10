@@ -5,7 +5,7 @@ vless://e40ac6ee-5231-4563-b2aa-12743be80c99@dl6.xn--c-sga.net:51502?type=tcp&se
 vless://e2177822-ddfc-4b68-b06b-f6feb4d5858b@info.xn--c-sga.net:38383?type=tcp&path=%2F&headerType=http&security=none#Irancell%2FTCP%2FWarp-o.fathi5
 vless://4e2706c9-434c-425d-9322-adde53bd363f@info.xn--c-sga.net:21891?type=tcp&security=none#Hamrah%2FTCP%2FWARP-O.Fathi6
 vless://ab1f6793-ad7b-4c3b-8110-ae5159f60814@info.xn--c-sga.net:54197?type=tcp&path=%2F&host=bmi.ir&headerType=http&security=reality&pbk=K2417IsrsIaE4jlSXNEBYXz9DhK7wyD00DQaF4BhYR4&fp=chrome&sni=www.linux.org&sid=1d&spx=%2F#Reality%2FTCP-o.fathi7
-vless://40fdf0ff-4afa-49d5-82d1-03a7af740654@prob1lem2sol3ved.xn--d1aqf.org:27036?type=splithttp&path=%2F&host=bmi.ir&security=reality&pbk=XaDSXEvSZN39Lxgkmic-bzV9fBuFPDW9D7u2bO633x0&fp=chrome&sni=www.linux.org&sid=15&spx=%2F#Reality%2FSplit-o.fathi8
+vless://40fdf0ff-4afa-49d5-82d1-03a7af740654@info.xn--c-sga.net:27036?type=splithttp&path=%2F&host=bmi.ir&security=reality&pbk=XaDSXEvSZN39Lxgkmic-bzV9fBuFPDW9D7u2bO633x0&fp=chrome&sni=www.linux.org&sid=15&spx=%2F#Reality%2FSplit-o.fathi8
 vless://b705e2eb-d979-482e-bd97-da97de813d90@info.xn--c-sga.net:10081?type=tcp&security=none#Psiphon%2FIPv4-O.Fathi9
 vless://27ee07f3-dd1a-4417-a04c-d8e41a30c4d5@dl6.xn--c-sga.net:10082?type=tcp&security=none#Psiphon%2FIPv6-O.Fathi10
 vless://783e2e45-0a90-4ba1-b85d-510fce0d1831@info.xn--c-sga.net:1881?type=tcp&security=none#Tor%2FTCP-o.fathi11
