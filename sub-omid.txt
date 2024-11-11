@@ -9,3 +9,4 @@ vless://40fdf0ff-4afa-49d5-82d1-03a7af740654@info.xn--c-sga.net:27036?type=split
 vless://b705e2eb-d979-482e-bd97-da97de813d90@info.xn--c-sga.net:10081?type=tcp&security=none#Psiphon%2FIPv4-O.Fathi9
 vless://27ee07f3-dd1a-4417-a04c-d8e41a30c4d5@dl6.xn--c-sga.net:10082?type=tcp&security=none#Psiphon%2FIPv6-O.Fathi10
 vless://783e2e45-0a90-4ba1-b85d-510fce0d1831@info.xn--c-sga.net:1881?type=tcp&security=none#Tor%2FTCP-o.fathi11
+vless://d6298361-fb79-4927-b976-994b21fd4ec1@info.xn--c-sga.net:38413?type=grpc&serviceName=&authority=&security=reality&pbk=6TLVXrLbyLwuR3GIlk7Bmf3QlezCoXtcSjqaupVtYC0&fp=chrome&sni=www.linux.org&sid=8ddee3cb587a&spx=%2F#Reality%2Fgrpc%2FWARP-O.Fathi12
