@@ -1,1 +1,4 @@
-vless://4df645fb-da93-4037-8c21-04d79a6f98bd@82cg7bdd3broo.xn--72cg7bdd3bro6b3ab9c8btw4x.com:16025?type=tcp&security=none#TCP-o.fathi1
+vless://dcca54d3-4b44-44ab-b159-4956a87ef330@info.xn--c-sga.net:2052?type=tcp&security=none#Hamrah%2FTCP-o.fathi2
+vless://ab1f6793-ad7b-4c3b-8110-ae5159f60814@info.xn--c-sga.net:54197?type=tcp&path=%2F&host=bmi.ir&headerType=http&security=reality&pbk=K2417IsrsIaE4jlSXNEBYXz9DhK7wyD00DQaF4BhYR4&fp=chrome&sni=www.linux.org&sid=1d&spx=%2F#Reality%2FTCP-o.fathi7
+vless://4e2706c9-434c-425d-9322-adde53bd363f@info.xn--c-sga.net:21891?type=tcp&security=none#Hamrah%2FTCP%2FWARP-O.Fathi6
+vless://d6298361-fb79-4927-b976-994b21fd4ec1@info.xn--c-sga.net:38413?type=grpc&serviceName=&authority=&security=reality&pbk=6TLVXrLbyLwuR3GIlk7Bmf3QlezCoXtcSjqaupVtYC0&fp=chrome&sni=www.linux.org&sid=8ddee3cb587a&spx=%2F#Reality%2Fgrpc%2FWARP-O.Fathi12
