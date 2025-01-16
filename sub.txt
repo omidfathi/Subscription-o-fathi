@@ -5,5 +5,5 @@ trojan://dbKvU3iuFd@dl2debug.idealhome.ir:443?security=tls&fp=firefox&type=ws&ho
 vless://ea16debf-ab2a-4593-8a3d-c837e5ca0b39@dl2debug.idealhome.ir:443?encryption=none&security=tls&fp=firefox&type=httpupgrade&host=dl2debug.idealhome.ir&path=%2F3852%2F8567KJHSFdkfjHKSJDfhKJH762341hkajsdhi2387edyuihsd#%235-Trojan%2FhttpUpgrade-Guys%235
 vless://46adc0cc-f351-40cc-85d0-cd3e2af852f8@dl2debug.idealhome.ir:443?encryption=none&security=tls&fp=firefox&type=ws&host=dl2debug.idealhome.ir&path=%2F2929%2Fasdjh98237418AJdhkawuy239ASUdhkuahsdku4982789JASDKhakshdjka#%236-Vless%2Fws%2FWarp-Guys%236
 vless://76b04043-81a7-4aa5-9adc-f1692664d2fc@dl2debug.idealhome.ir:443?encryption=none&security=tls&fp=firefox&type=grpc&authority=dl2debug.idealhome.ir&serviceName=%2F3421%2F876AJSDHihakJhskdjhKJASDkhkAJshdkjh1263718&mode=gun#%237-Vless%2FgRPC%2FWarp-Guys%237
-vless://b06885c9-e38b-4aaa-ba26-8a52e0246398@dl2debug.idealhome.ir:17997?type=xhttp&path=%2F17997%2Fasdkjh&host=&mode=auto&security=none#%238-Mokhaberat-Guys%238
-vless://ffabcdf1-8388-4872-b616-4b03fc6abdbe@dl2debug.idealhome.ir:29954?type=xhttp&path=%2F29954%2Fasdjhwa&host=&mode=auto&security=none#%239-Mokhaberat%2FWarp-Guys%239
+vless://7972f4f0-1788-4967-92d4-286f5e3e08ea@dl2debug.idealhome.ir:17997?type=tcp&path=%2F&host=Digigerman.com&headerType=http&security=none#%238-Mokhaberat-O.fathi%238
+vless://99997d0f-714e-4c3b-9d09-f5d8f0726443@dl2debug.idealhome.ir:29954?type=tcp&path=%2F&host=Digigerman.Com&headerType=http&security=none#%239-Mokhaberat%2FWarp-O.Fathi%239
