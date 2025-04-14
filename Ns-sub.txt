@@ -1,0 +1,4 @@
+hysteria2://RLhjq5r0AJ@1microtik23nobody45.brightpearlhk.org:8443?security=tls&obfs=salamander&obfs-password=o%40fathi%231238&insecure=1#%231-HYS2%20%E2%99%BE
+hysteria2://RLhjq5r0AJ@1microtik23nobody45.brightpearlhk.org:50265?security=tls&insecure=1#%232-HYS2%20%E2%99%BE
+hysteria2://RLhjq5r0AJ@1microtik23nobody45.brightpearlhk.org:57541?security=tls&obfs=salamander&obfs-password=Gag%40%2361736&insecure=1#%233-HYS2%20%E2%99%BE
+hysteria2://RLhjq5r0AJ@1microtik23nobody45.brightpearlhk.org:22580?security=tls&obfs=salamander&obfs-password=%212%403%234wedfsd%23%24%25&insecure=1#%234-HYS2-WARP%20%E2%99%BE
