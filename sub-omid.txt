@@ -2,3 +2,4 @@ vless://30c28418-2eac-46a3-a9fe-82601e2b7a3e@193.151.142.19:2443?type=ws&path=%2
 vless://e8f8ba89-b879-498e-a216-ee1da98e27d1@193.151.142.19:1443?type=tcp&path=%2Fasd324easd&host=uptvs.com&headerType=http&security=none#Vless-TCP-O.Fathi2
 vless://d5e0d898-af3b-4372-bcbc-7e37d9f032c2@193.151.142.19:3443?type=xhttp&path=%2Fasd38asd%3Fed%3D2560&host=&mode=auto&security=reality&pbk=cZ5048i6Pu4GjEMJU5ZxrsgGspM4IlUCeRmSImky5BU&fp=chrome&sni=archive.linux.duke.edu&sid=4327505c0b&spx=%2F#Vless-Real-O.Fathi3
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TTBmdXk3dTJhTVV5QWZ2YU1VeVYzWGVOcDFLbXBuMlVpbjdaUGRMbldkND06cW9uajVqbXBOQnJDQTlta1RwYXdLRm9aQ0ZHZWJxTFpKU3VzeU1iaFZNdz0@193.151.142.19:4443?type=tcp#SS-Xhttp-O.Fathi4
+vless://5378ba22-8729-401f-8c9d-2bd348a1db81@rv4.zeroraz.top:64443?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1
