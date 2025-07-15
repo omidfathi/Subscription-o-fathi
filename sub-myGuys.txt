@@ -1,0 +1,6 @@
+trojan://0smAjJFMES@157.180.82.201:28119?type=tcp&security=reality&pbk=kcV7LPgLSzw_FGiQInUIQcBolpBZGz6jMJgOvHGXlQU&fp=chrome&sni=airic-ir.com&sid=733228d2c5056f&spx=%2F#Trojan-tcp-Reality-MyGuys1
+vless://ab785099-406a-4b20-a595-e73b13d99fdf@157.180.82.201:52606?type=tcp&security=reality&pbk=6chcPwU4d_6T6gdqRiXOhbwJcfa4OpWNb4GiGDePuzo&fp=chrome&sni=mail.ricest.ac.ir&sid=ccb01287156a&spx=%2F#Vless-tcp-Reality-MyGuys2
+vless://de3b52a6-5ad0-4009-afba-0de85574ed94@157.180.82.201:21131?type=xhttp&path=%2Fbsu6266HhHHH%3Fed%3D2560&host=&mode=auto&security=reality&pbk=aOdKoT15FxQ7OyCmJ1GYbeXVvIXW2TRkczNQyR8kSlo&fp=chrome&sni=mail.ricest.ac.ir&sid=bf97&spx=%2F#Vless-Xhttp-Reality-MyGuys4
+vless://bc2fd419-707b-4125-a231-eba10967f3e9@curl.se:80?encryption=none&security=none&type=xhttp&host=lightly-model-teal-ofathi.global.ssl.fastly.net&path=%2Fa8a72ynjsdh%3Fed%3D2560&mode=auto#Vless-Fastly-MyGuys3
+vless://bc2fd419-707b-4125-a231-eba10967f3e9@a.thumbs.redditmedia.com:80?encryption=none&security=none&type=xhttp&host=lightly-model-teal-ofathi.global.ssl.fastly.net&path=%2Fa8a72ynjsdh%3Fed%3D2560&mode=auto#Vless-Fastly-MyGuys3
+vless://bc2fd419-707b-4125-a231-eba10967f3e9@viop.fast.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=lightly-model-teal-ofathi.global.ssl.fastly.net&path=%2Fa8a72ynjsdh%3Fed%3D2560&mode=auto#Vless-Fastly-MyGuys3
